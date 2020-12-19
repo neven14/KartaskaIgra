@@ -1,0 +1,13 @@
+C:\Users\Gordana\source\repos\KartaskaIgra\KartaskaIgra\bin\Debug\netcoreapp3.1\KartaskaIgra.exe
+C:\Users\Gordana\source\repos\KartaskaIgra\KartaskaIgra\bin\Debug\netcoreapp3.1\KartaskaIgra.deps.json
+C:\Users\Gordana\source\repos\KartaskaIgra\KartaskaIgra\bin\Debug\netcoreapp3.1\KartaskaIgra.runtimeconfig.json
+C:\Users\Gordana\source\repos\KartaskaIgra\KartaskaIgra\bin\Debug\netcoreapp3.1\KartaskaIgra.runtimeconfig.dev.json
+C:\Users\Gordana\source\repos\KartaskaIgra\KartaskaIgra\bin\Debug\netcoreapp3.1\KartaskaIgra.dll
+C:\Users\Gordana\source\repos\KartaskaIgra\KartaskaIgra\bin\Debug\netcoreapp3.1\KartaskaIgra.pdb
+C:\Users\Gordana\source\repos\KartaskaIgra\KartaskaIgra\obj\Debug\netcoreapp3.1\KartaskaIgra.csprojAssemblyReference.cache
+C:\Users\Gordana\source\repos\KartaskaIgra\KartaskaIgra\obj\Debug\netcoreapp3.1\KartaskaIgra.AssemblyInfoInputs.cache
+C:\Users\Gordana\source\repos\KartaskaIgra\KartaskaIgra\obj\Debug\netcoreapp3.1\KartaskaIgra.AssemblyInfo.cs
+C:\Users\Gordana\source\repos\KartaskaIgra\KartaskaIgra\obj\Debug\netcoreapp3.1\KartaskaIgra.csproj.CoreCompileInputs.cache
+C:\Users\Gordana\source\repos\KartaskaIgra\KartaskaIgra\obj\Debug\netcoreapp3.1\KartaskaIgra.dll
+C:\Users\Gordana\source\repos\KartaskaIgra\KartaskaIgra\obj\Debug\netcoreapp3.1\KartaskaIgra.pdb
+C:\Users\Gordana\source\repos\KartaskaIgra\KartaskaIgra\obj\Debug\netcoreapp3.1\KartaskaIgra.genruntimeconfig.cache
